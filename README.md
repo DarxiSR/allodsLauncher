@@ -12,4 +12,4 @@ It's not a stable launcher who hooking API.
 It's a only game.dll uploader. 
 You must be use Launcher.exe with HookDll.dll.
 Please, look at ./bin/ directory.
- ![image info](./Result.jpg)
+ ![image info](./result.jpg)
