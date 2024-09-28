@@ -14,7 +14,7 @@ You must be use Launcher.exe with HookDll.dll.
 Please, look at ./bin/ directory.
 ![image info](./result.jpg)
 
-If you want to test Allods Online: http://doh-detection-demo.ru/register/
+If you want to test Allods Online: http://doh-detection-demo.ru/register/.
 So i started Allods Online 4.0.02.42, this server is full free and running 24/7.
-Do you need crystals? Pls dm me in Telegram: @Darxis. I'll do it without a problem (update account set money=10000000 where name='....', that's so rly easy)
+Do you need crystals? Pls dm me in Telegram: @Darxis. I'll do it without a problem (update account set money=10000000 where name='....', that's so rly easy).
 Enjoy!
