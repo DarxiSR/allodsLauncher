@@ -1,5 +1,6 @@
 # Allods Online 4.0.02.42 Launcher
 It's a simple solution to bypass original launcher update checker and execute game.
+You can check this in my Allods Online server: allods.doh-detection-demo.ru
 
 So i've researched how AllodsME launcher works: https://community.allods-developers.eu/resources/allodsme-client.47/
 ![image info](./allodsMeLauncherReverse.jpg)
